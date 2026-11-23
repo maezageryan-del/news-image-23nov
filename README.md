@@ -3,13 +3,9 @@
 One 1024×1024 image summing up Monday 23 November 2026's world news:
 36 stories across 7 regions, every one dated to that Monday.
 
-> **BADGE STATUS: OUTSTANDING.** The make.fun kit for
-> `news-image-20261123` was still returning HTTP 503 `kit_pending`
-> ("This kit is being built") at build time (7+ retries across the build,
-> last check 2026-11-23 ~00:35 WIB). The three live make.fun badge lines
-> from the kit's `RULES.txt` are therefore **not yet in this README** —
-> they must be added verbatim from `RULES.txt` once the kit is downloadable.
-> Do not guess badge URLs.
+[![News image: 23 November 2026](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![Rank](https://make.fun/badge/news-image-20261123/maezageryan-del/news-image-23nov/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![Reward](https://make.fun/badge/news-image-20261123/maezageryan-del/news-image-23nov/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 ## What the image shows
 
